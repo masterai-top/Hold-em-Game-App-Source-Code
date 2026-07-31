@@ -1,6 +1,5 @@
 # 🃏 Texas Holdem Poker Complete Solution |Mã nguồn Poker  德州源码 |  德州私人局|德州扑克完整解决方案 |德州源碼|德州撲克|德州俱樂部| 德州游戏源码
 
-💡 Build your own poker platform in minutes  
 💡 快速搭建你的德州扑克平台  
 💡 快速建立你的德州撲克平台  
 
