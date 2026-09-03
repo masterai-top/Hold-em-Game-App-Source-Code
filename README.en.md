@@ -71,14 +71,6 @@ Launch Date: **Years of stable operation**
 - **Communication**: Proprietary encrypted protocol
 
 
-## 📦 Deliverables
-
-
-- [ ] Complete server-side source code (C++)
-- [ ] Complete client-side source code (iOS/Android/H5)
-- [ ] Database scripts
-- [ ] Art asset package
-- [ ] Deployment and maintenance documentation
 
 
 ## 💰 Get the Source Code
